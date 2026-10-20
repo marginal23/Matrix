@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="LabMatrix/LabMatrix.vcxproj" Id="cefa6258-fb93-41c8-bbf4-b179e506b08f" />
+</Solution>
